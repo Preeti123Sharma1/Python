@@ -1,3 +1,6 @@
+# Overriding in Polymorphism
+# By the help of super key we print the parent values in the child class.
+
 class Goa:
     def displayinfo(self):
         print("Welcome to Goa")
