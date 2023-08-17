@@ -1,5 +1,6 @@
 # Overriding in Polymorphism
 # By the help of super key we print the parent values in the child class.
+# In this child function does not overring the parent function.
 
 class Goa:
     def displayinfo(self):

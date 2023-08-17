@@ -1,7 +1,7 @@
 ## Polymorphism, means same functtion name (but different signatures) being uses for different types.
 # 1. Overloading      2. Overriding
 
-# Overloding :- function name is same but we don't pass parameter.
+# Overloding :- function name is same but we don't pass parameter or change the parameter.
 
 class hello:
     def displayinfo(self,name=""):                  # diplayinfo is function, name is parameter
