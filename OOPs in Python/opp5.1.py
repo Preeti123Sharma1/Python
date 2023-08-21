@@ -1,5 +1,7 @@
 # Overriding in Polymorphism
 # By the help of super key we print the parent values in the child class.
+# Overriding Polymorphism
+# It is use for less memory use.
 # In this child function does not overring the parent function.
 
 class Goa:
