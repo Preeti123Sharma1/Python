@@ -27,7 +27,7 @@ while True:
     if uc == 1:
         obj.displayBike()
     elif uc == 2:
-        n = int(input("Enter the quntity:--- "))
+        n = int(input("Enter the quntity:---  "))
         obj.rentBike(n)
     else:
         break
